@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PassData</string>
+    <string name="show">Show</string>
+    <string name="save">Save</string>
+    <string name="name_detail">Name</string>
+    <string name="email_detail">Email</string>
+    <string name="email_main">Email</string>
+    <string name="name_main">Name</string>
+    <string name="enter_data">Enter Data</string>
+    <string name="detail_data">Detail Data</string>
+</resources>
