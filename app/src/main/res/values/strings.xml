@@ -8,4 +8,10 @@
     <string name="name_main">Name</string>
     <string name="enter_data">Enter Data</string>
     <string name="detail_data">Detail Data</string>
+    <string name="save_value">Save Value</string>
+    <string name="show_value">Show Value</string>
+    <string name="remove_value">Remove Value</string>
+    <string name="input_value_to_be_saved">Input value to be saved</string>
+    <string name="show_data_text">Show data :</string>
+    <string name="your_saved_data_will_be_show_on_below">Your saved data will be show on below.</string>
 </resources>
